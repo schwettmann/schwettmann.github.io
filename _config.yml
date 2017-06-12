@@ -9,7 +9,7 @@ url:
 baseurl:
 
 author:        author
-  name:        name
+  name:
   url:
 
 paginate:         0
