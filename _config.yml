@@ -3,7 +3,7 @@
 # highlighter:      pygments
 
 # Permalinks
-permalink:        pretty
+# permalink:        pretty
 
 # Setup
 title:            ''
