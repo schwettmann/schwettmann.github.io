@@ -1,24 +1,20 @@
-# Dependencies
-markdown:         kramdown #redcarpet
-# highlighter:      pygments
-
 # Permalinks
-# permalink:        pretty
+permalink:        pretty
 
 # Setup
-title:            ''
-tagline:          ''
-description:      ''
-url:              ''
-baseurl:          /
+title:         title
+tagline:       tagline
+description:   description
+url:
+baseurl:
 
-author:
-  name:           ''
+author:        author
+  name:        name
   url:
 
 paginate:         0
 
 # Custom vars
-version:          ''
-github:           ''
-  repo:           ''
+version:          version
+github:           github
+  repo:           repo
