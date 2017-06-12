@@ -8,8 +8,8 @@ description:   description
 url:
 baseurl:
 
-author:        author
-  name:
+author:
+  name:       name
   url:
 
 paginate:         0
