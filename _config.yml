@@ -16,5 +16,5 @@ paginate:         0
 
 # Custom vars
 version:          version
-github:           github
+github:
   repo:           repo
